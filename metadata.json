@@ -1,0 +1,5 @@
+{
+  "name": "Smart Attendance System",
+  "description": "An intelligent, AI-powered solution for automating attendance tracking. Upload student and classroom photos to generate accurate attendance reports instantly with advanced facial recognition.",
+  "requestFramePermissions": []
+}
